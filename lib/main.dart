@@ -8,7 +8,7 @@ class CalculatorApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'calculadora',
+      title: 'calculadora/Gabriel Pantoja/4A',
       theme: ThemeData(
         brightness: Brightness.light,
         primaryColor: Colors.deepPurple,
